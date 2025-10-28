@@ -894,6 +894,9 @@
          fp screen off unlock-->
     <bool name="config_screen_off_udfps_default_on">true</bool>
     
+    <!-- PowerOffAlarmService -->
+    <bool name="config_powerOffAlarmEnabled">true</bool>
+    
     <!-- Whether the device supports Smart Pixels -->
     <bool name="config_supportSmartPixels">true</bool>
     
