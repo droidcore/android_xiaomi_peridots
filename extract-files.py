@@ -19,17 +19,8 @@ from extract_utils.main import (
 )
 
 namespace_imports = [
-<<<<<<< HEAD
-=======
-    'device/xiaomi/peridot',
-    'hardware/lineage/compat',
->>>>>>> aaa2025 (peridot: Migrate to common libqti-perfd-client and power-libperfmgr)
     'hardware/qcom-caf/sm8650',
     'hardware/qcom-caf/wlan',
-    'hardware/qcom-caf/common/libqti-perfd-client',
-    'hardware/lineage/interfaces/power-libperfmgr',
-    'hardware/google/interfaces',
-    'hardware/google/pixel',
     'hardware/xiaomi',
     'vendor/qcom/opensource/commonsys/display',
     'vendor/qcom/opensource/commonsys-intf/display',
